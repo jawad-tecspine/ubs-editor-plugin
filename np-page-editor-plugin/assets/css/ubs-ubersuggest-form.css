@@ -1,0 +1,1904 @@
+@charset "UTF-8";
+
+.flag-icon,
+.flag-icon-background {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain
+}
+
+.flag-icon {
+    display: inline-block;
+    line-height: 1em;
+    position: relative;
+    width: 1.3333333333em
+}
+
+.flag-icon:before {
+    content: " "
+}
+
+.flag-icon.flag-icon-squared {
+    width: 1em
+}
+
+.flag-icon-ad {
+    background-image: url(../../assets/img/flags/ad.svg)
+}
+
+.flag-icon-ae {
+    background-image: url(../../assets/img/flags/ae.svg)
+}
+
+.flag-icon-af {
+    background-image: url(../../assets/img/flags/af.svg)
+}
+
+.flag-icon-ag {
+    background-image: url(../../assets/img/flags/ag.svg)
+}
+
+.flag-icon-ai {
+    background-image: url(../../assets/img/flags/ai.svg)
+}
+
+.flag-icon-al {
+    background-image: url(../../assets/img/flags/al.svg)
+}
+
+.flag-icon-am {
+    background-image: url(../../assets/img/flags/am.svg)
+}
+
+.flag-icon-ao {
+    background-image: url(../../assets/img/flags/ao.svg)
+}
+
+.flag-icon-aq {
+    background-image: url(../../assets/img/flags/aq.svg)
+}
+
+.flag-icon-ar {
+    background-image: url(../../assets/img/flags/ar.svg)
+}
+
+.flag-icon-as {
+    background-image: url(../../assets/img/flags/as.svg)
+}
+
+.flag-icon-at {
+    background-image: url(../../assets/img/flags/at.svg)
+}
+
+.flag-icon-au {
+    background-image: url(../../assets/img/flags/au.svg)
+}
+
+.flag-icon-aw {
+    background-image: url(../../assets/img/flags/aw.svg)
+}
+
+.flag-icon-ax {
+    background-image: url(../../assets/img/flags/ax.svg)
+}
+
+.flag-icon-az {
+    background-image: url(../../assets/img/flags/az.svg)
+}
+
+.flag-icon-ba {
+    background-image: url(../../assets/img/flags/ba.svg)
+}
+
+.flag-icon-bb {
+    background-image: url(../../assets/img/flags/bb.svg)
+}
+
+.flag-icon-bd {
+    background-image: url(../../assets/img/flags/bd.svg)
+}
+
+.flag-icon-be {
+    background-image: url(../../assets/img/flags/be.svg)
+}
+
+.flag-icon-bf {
+    background-image: url(../../assets/img/flags/bf.svg)
+}
+
+.flag-icon-bg {
+    background-image: url(../../assets/img/flags/bg.svg)
+}
+
+.flag-icon-bh {
+    background-image: url(../../assets/img/flags/bh.svg)
+}
+
+.flag-icon-bi {
+    background-image: url(../../assets/img/flags/bi.svg)
+}
+
+.flag-icon-bj {
+    background-image: url(../../assets/img/flags/bj.svg)
+}
+
+.flag-icon-bl {
+    background-image: url(../../assets/img/flags/bl.svg)
+}
+
+.flag-icon-bm {
+    background-image: url(../../assets/img/flags/bm.svg)
+}
+
+.flag-icon-bn {
+    background-image: url(../../assets/img/flags/bn.svg)
+}
+
+.flag-icon-bo {
+    background-image: url(../../assets/img/flags/bo.svg)
+}
+
+.flag-icon-bq {
+    background-image: url(../../assets/img/flags/bq.svg)
+}
+
+.flag-icon-br {
+    background-image: url(../../assets/img/flags/br.svg)
+}
+
+.flag-icon-bs {
+    background-image: url(../../assets/img/flags/bs.svg)
+}
+
+.flag-icon-bt {
+    background-image: url(../../assets/img/flags/bt.svg)
+}
+
+.flag-icon-bv {
+    background-image: url(../../assets/img/flags/bv.svg)
+}
+
+.flag-icon-bw {
+    background-image: url(../../assets/img/flags/bw.svg)
+}
+
+.flag-icon-by {
+    background-image: url(../../assets/img/flags/by.svg)
+}
+
+.flag-icon-bz {
+    background-image: url(../../assets/img/flags/bz.svg)
+}
+
+.flag-icon-ca {
+    background-image: url(../../assets/img/flags/ca.svg)
+}
+
+.flag-icon-cc {
+    background-image: url(../../assets/img/flags/cc.svg)
+}
+
+.flag-icon-cd {
+    background-image: url(../../assets/img/flags/cd.svg)
+}
+
+.flag-icon-cf {
+    background-image: url(../../assets/img/flags/cf.svg)
+}
+
+.flag-icon-cg {
+    background-image: url(../../assets/img/flags/cg.svg)
+}
+
+.flag-icon-ch {
+    background-image: url(../../assets/img/flags/ch.svg)
+}
+
+.flag-icon-ci {
+    background-image: url(../../assets/img/flags/ci.svg)
+}
+
+.flag-icon-ck {
+    background-image: url(../../assets/img/flags/ck.svg)
+}
+
+.flag-icon-cl {
+    background-image: url(../../assets/img/flags/cl.svg)
+}
+
+.flag-icon-cm {
+    background-image: url(../../assets/img/flags/cm.svg)
+}
+
+.flag-icon-cn {
+    background-image: url(../../assets/img/flags/cn.svg)
+}
+
+.flag-icon-co {
+    background-image: url(../../assets/img/flags/co.svg)
+}
+
+.flag-icon-cr {
+    background-image: url(../../assets/img/flags/cr.svg)
+}
+
+.flag-icon-cu {
+    background-image: url(../../assets/img/flags/cu.svg)
+}
+
+.flag-icon-cv {
+    background-image: url(../../assets/img/flags/cv.svg)
+}
+
+.flag-icon-cw {
+    background-image: url(../../assets/img/flags/cw.svg)
+}
+
+.flag-icon-cx {
+    background-image: url(../../assets/img/flags/cx.svg)
+}
+
+.flag-icon-cy {
+    background-image: url(../../assets/img/flags/cy.svg)
+}
+
+.flag-icon-cz {
+    background-image: url(../../assets/img/flags/cz.svg)
+}
+
+.flag-icon-de {
+    background-image: url(../../assets/img/flags/de.svg)
+}
+
+.flag-icon-dj {
+    background-image: url(../../assets/img/flags/dj.svg)
+}
+
+.flag-icon-dk {
+    background-image: url(../../assets/img/flags/dk.svg)
+}
+
+.flag-icon-dm {
+    background-image: url(../../assets/img/flags/dm.svg)
+}
+
+.flag-icon-do {
+    background-image: url(../../assets/img/flags/do.svg)
+}
+
+.flag-icon-dz {
+    background-image: url(../../assets/img/flags/dz.svg)
+}
+
+.flag-icon-ec {
+    background-image: url(../../assets/img/flags/ec.svg)
+}
+
+.flag-icon-ee {
+    background-image: url(../../assets/img/flags/ee.svg)
+}
+
+.flag-icon-eg {
+    background-image: url(../../assets/img/flags/eg.svg)
+}
+
+.flag-icon-eh {
+    background-image: url(../../assets/img/flags/eh.svg)
+}
+
+.flag-icon-er {
+    background-image: url(../../assets/img/flags/er.svg)
+}
+
+.flag-icon-es {
+    background-image: url(../../assets/img/flags/es.svg)
+}
+
+.flag-icon-et {
+    background-image: url(../../assets/img/flags/et.svg)
+}
+
+.flag-icon-fi {
+    background-image: url(../../assets/img/flags/fi.svg)
+}
+
+.flag-icon-fj {
+    background-image: url(../../assets/img/flags/fj.svg)
+}
+
+.flag-icon-fk {
+    background-image: url(../../assets/img/flags/fk.svg)
+}
+
+.flag-icon-fm {
+    background-image: url(../../assets/img/flags/fm.svg)
+}
+
+.flag-icon-fo {
+    background-image: url(../../assets/img/flags/fo.svg)
+}
+
+.flag-icon-fr {
+    background-image: url(../../assets/img/flags/fr.svg)
+}
+
+.flag-icon-ga {
+    background-image: url(../../assets/img/flags/ga.svg)
+}
+
+.flag-icon-gb {
+    background-image: url(../../assets/img/flags/gb.svg)
+}
+
+.flag-icon-gd {
+    background-image: url(../../assets/img/flags/gd.svg)
+}
+
+.flag-icon-ge {
+    background-image: url(../../assets/img/flags/ge.svg)
+}
+
+.flag-icon-gf {
+    background-image: url(../../assets/img/flags/gf.svg)
+}
+
+.flag-icon-gg {
+    background-image: url(../../assets/img/flags/gg.svg)
+}
+
+.flag-icon-gh {
+    background-image: url(../../assets/img/flags/gh.svg)
+}
+
+.flag-icon-gi {
+    background-image: url(../../assets/img/flags/gi.svg)
+}
+
+.flag-icon-gl {
+    background-image: url(../../assets/img/flags/gl.svg)
+}
+
+.flag-icon-gm {
+    background-image: url(../../assets/img/flags/gm.svg)
+}
+
+.flag-icon-gn {
+    background-image: url(../../assets/img/flags/gn.svg)
+}
+
+.flag-icon-gp {
+    background-image: url(../../assets/img/flags/gp.svg)
+}
+
+.flag-icon-gq {
+    background-image: url(../../assets/img/flags/gq.svg)
+}
+
+.flag-icon-gr {
+    background-image: url(../../assets/img/flags/gr.svg)
+}
+
+.flag-icon-gs {
+    background-image: url(../../assets/img/flags/gs.svg)
+}
+
+.flag-icon-gt {
+    background-image: url(../../assets/img/flags/gt.svg)
+}
+
+.flag-icon-gu {
+    background-image: url(../../assets/img/flags/gu.svg)
+}
+
+.flag-icon-gw {
+    background-image: url(../../assets/img/flags/gw.svg)
+}
+
+.flag-icon-gy {
+    background-image: url(../../assets/img/flags/gy.svg)
+}
+
+.flag-icon-hk {
+    background-image: url(../../assets/img/flags/hk.svg)
+}
+
+.flag-icon-hm {
+    background-image: url(../../assets/img/flags/hm.svg)
+}
+
+.flag-icon-hn {
+    background-image: url(../../assets/img/flags/hn.svg)
+}
+
+.flag-icon-hr {
+    background-image: url(../../assets/img/flags/hr.svg)
+}
+
+.flag-icon-ht {
+    background-image: url(../../assets/img/flags/ht.svg)
+}
+
+.flag-icon-hu {
+    background-image: url(../../assets/img/flags/hu.svg)
+}
+
+.flag-icon-id {
+    background-image: url(../../assets/img/flags/id.svg)
+}
+
+.flag-icon-ie {
+    background-image: url(../../assets/img/flags/ie.svg)
+}
+
+.flag-icon-il {
+    background-image: url(../../assets/img/flags/il.svg)
+}
+
+.flag-icon-im {
+    background-image: url(../../assets/img/flags/im.svg)
+}
+
+.flag-icon-in {
+    background-image: url(../../assets/img/flags/in.svg)
+}
+
+.flag-icon-io {
+    background-image: url(../../assets/img/flags/io.svg)
+}
+
+.flag-icon-iq {
+    background-image: url(../../assets/img/flags/iq.svg)
+}
+
+.flag-icon-ir {
+    background-image: url(../../assets/img/flags/ir.svg)
+}
+
+.flag-icon-is {
+    background-image: url(../../assets/img/flags/is.svg)
+}
+
+.flag-icon-it {
+    background-image: url(../../assets/img/flags/it.svg)
+}
+
+.flag-icon-je {
+    background-image: url(../../assets/img/flags/je.svg)
+}
+
+.flag-icon-jm {
+    background-image: url(../../assets/img/flags/jm.svg)
+}
+
+.flag-icon-jo {
+    background-image: url(../../assets/img/flags/jo.svg)
+}
+
+.flag-icon-jp {
+    background-image: url(../../assets/img/flags/jp.svg)
+}
+
+.flag-icon-ke {
+    background-image: url(../../assets/img/flags/ke.svg)
+}
+
+.flag-icon-kg {
+    background-image: url(../../assets/img/flags/kg.svg)
+}
+
+.flag-icon-kh {
+    background-image: url(../../assets/img/flags/kh.svg)
+}
+
+.flag-icon-ki {
+    background-image: url(../../assets/img/flags/ki.svg)
+}
+
+.flag-icon-km {
+    background-image: url(../../assets/img/flags/km.svg)
+}
+
+.flag-icon-kn {
+    background-image: url(../../assets/img/flags/kn.svg)
+}
+
+.flag-icon-kp {
+    background-image: url(../../assets/img/flags/kp.svg)
+}
+
+.flag-icon-kr {
+    background-image: url(../../assets/img/flags/kr.svg)
+}
+
+.flag-icon-kw {
+    background-image: url(../../assets/img/flags/kw.svg)
+}
+
+.flag-icon-ky {
+    background-image: url(../../assets/img/flags/ky.svg)
+}
+
+.flag-icon-kz {
+    background-image: url(../../assets/img/flags/kz.svg)
+}
+
+.flag-icon-la {
+    background-image: url(../../assets/img/flags/la.svg)
+}
+
+.flag-icon-lb {
+    background-image: url(../../assets/img/flags/lb.svg)
+}
+
+.flag-icon-lc {
+    background-image: url(../../assets/img/flags/lc.svg)
+}
+
+.flag-icon-li {
+    background-image: url(../../assets/img/flags/li.svg)
+}
+
+.flag-icon-lk {
+    background-image: url(../../assets/img/flags/lk.svg)
+}
+
+.flag-icon-lr {
+    background-image: url(../../assets/img/flags/lr.svg)
+}
+
+.flag-icon-ls {
+    background-image: url(../../assets/img/flags/ls.svg)
+}
+
+.flag-icon-lt {
+    background-image: url(../../assets/img/flags/lt.svg)
+}
+
+.flag-icon-lu {
+    background-image: url(../../assets/img/flags/lu.svg)
+}
+
+.flag-icon-lv {
+    background-image: url(../../assets/img/flags/lv.svg)
+}
+
+.flag-icon-ly {
+    background-image: url(../../assets/img/flags/ly.svg)
+}
+
+.flag-icon-ma {
+    background-image: url(../../assets/img/flags/ma.svg)
+}
+
+.flag-icon-mc {
+    background-image: url(../../assets/img/flags/mc.svg)
+}
+
+.flag-icon-md {
+    background-image: url(../../assets/img/flags/md.svg)
+}
+
+.flag-icon-me {
+    background-image: url(../../assets/img/flags/me.svg)
+}
+
+.flag-icon-mf {
+    background-image: url(../../assets/img/flags/mf.svg)
+}
+
+.flag-icon-mg {
+    background-image: url(../../assets/img/flags/mg.svg)
+}
+
+.flag-icon-mh {
+    background-image: url(../../assets/img/flags/mh.svg)
+}
+
+.flag-icon-mk {
+    background-image: url(../../assets/img/flags/mk.svg)
+}
+
+.flag-icon-ml {
+    background-image: url(../../assets/img/flags/ml.svg)
+}
+
+.flag-icon-mm {
+    background-image: url(../../assets/img/flags/mm.svg)
+}
+
+.flag-icon-mn {
+    background-image: url(../../assets/img/flags/mn.svg)
+}
+
+.flag-icon-mo {
+    background-image: url(../../assets/img/flags/mo.svg)
+}
+
+.flag-icon-mp {
+    background-image: url(../../assets/img/flags/mp.svg)
+}
+
+.flag-icon-mq {
+    background-image: url(../../assets/img/flags/mq.svg)
+}
+
+.flag-icon-mr {
+    background-image: url(../../assets/img/flags/mr.svg)
+}
+
+.flag-icon-ms {
+    background-image: url(../../assets/img/flags/ms.svg)
+}
+
+.flag-icon-mt {
+    background-image: url(../../assets/img/flags/mt.svg)
+}
+
+.flag-icon-mu {
+    background-image: url(../../assets/img/flags/mu.svg)
+}
+
+.flag-icon-mv {
+    background-image: url(../../assets/img/flags/mv.svg)
+}
+
+.flag-icon-mw {
+    background-image: url(../../assets/img/flags/mw.svg)
+}
+
+.flag-icon-mx {
+    background-image: url(../../assets/img/flags/mx.svg)
+}
+
+.flag-icon-my {
+    background-image: url(../../assets/img/flags/my.svg)
+}
+
+.flag-icon-mz {
+    background-image: url(../../assets/img/flags/mz.svg)
+}
+
+.flag-icon-na {
+    background-image: url(../../assets/img/flags/na.svg)
+}
+
+.flag-icon-nc {
+    background-image: url(../../assets/img/flags/nc.svg)
+}
+
+.flag-icon-ne {
+    background-image: url(../../assets/img/flags/ne.svg)
+}
+
+.flag-icon-nf {
+    background-image: url(../../assets/img/flags/nf.svg)
+}
+
+.flag-icon-ng {
+    background-image: url(../../assets/img/flags/ng.svg)
+}
+
+.flag-icon-ni {
+    background-image: url(../../assets/img/flags/ni.svg)
+}
+
+.flag-icon-nl {
+    background-image: url(../../assets/img/flags/nl.svg)
+}
+
+.flag-icon-no {
+    background-image: url(../../assets/img/flags/no.svg)
+}
+
+.flag-icon-np {
+    background-image: url(../../assets/img/flags/np.svg)
+}
+
+.flag-icon-nr {
+    background-image: url(../../assets/img/flags/nr.svg)
+}
+
+.flag-icon-nu {
+    background-image: url(../../assets/img/flags/nu.svg)
+}
+
+.flag-icon-nz {
+    background-image: url(../../assets/img/flags/nz.svg)
+}
+
+.flag-icon-om {
+    background-image: url(../../assets/img/flags/om.svg)
+}
+
+.flag-icon-pa {
+    background-image: url(../../assets/img/flags/pa.svg)
+}
+
+.flag-icon-pe {
+    background-image: url(../../assets/img/flags/pe.svg)
+}
+
+.flag-icon-pf {
+    background-image: url(../../assets/img/flags/pf.svg)
+}
+
+.flag-icon-pg {
+    background-image: url(../../assets/img/flags/pg.svg)
+}
+
+.flag-icon-ph {
+    background-image: url(../../assets/img/flags/ph.svg)
+}
+
+.flag-icon-pk {
+    background-image: url(../../assets/img/flags/pk.svg)
+}
+
+.flag-icon-pl {
+    background-image: url(../../assets/img/flags/pl.svg)
+}
+
+.flag-icon-pm {
+    background-image: url(../../assets/img/flags/pm.svg)
+}
+
+.flag-icon-pn {
+    background-image: url(../../assets/img/flags/pn.svg)
+}
+
+.flag-icon-pr {
+    background-image: url(../../assets/img/flags/pr.svg)
+}
+
+.flag-icon-ps {
+    background-image: url(../../assets/img/flags/ps.svg)
+}
+
+.flag-icon-pt {
+    background-image: url(../../assets/img/flags/pt.svg)
+}
+
+.flag-icon-pw {
+    background-image: url(../../assets/img/flags/pw.svg)
+}
+
+.flag-icon-py {
+    background-image: url(../../assets/img/flags/py.svg)
+}
+
+.flag-icon-qa {
+    background-image: url(../../assets/img/flags/qa.svg)
+}
+
+.flag-icon-re {
+    background-image: url(../../assets/img/flags/re.svg)
+}
+
+.flag-icon-ro {
+    background-image: url(../../assets/img/flags/ro.svg)
+}
+
+.flag-icon-rs {
+    background-image: url(../../assets/img/flags/rs.svg)
+}
+
+.flag-icon-ru {
+    background-image: url(../../assets/img/flags/ru.svg)
+}
+
+.flag-icon-rw {
+    background-image: url(../../assets/img/flags/rw.svg)
+}
+
+.flag-icon-sa {
+    background-image: url(../../assets/img/flags/sa.svg)
+}
+
+.flag-icon-sb {
+    background-image: url(../../assets/img/flags/sb.svg)
+}
+
+.flag-icon-sc {
+    background-image: url(../../assets/img/flags/sc.svg)
+}
+
+.flag-icon-sd {
+    background-image: url(../../assets/img/flags/sd.svg)
+}
+
+.flag-icon-se {
+    background-image: url(../../assets/img/flags/se.svg)
+}
+
+.flag-icon-sg {
+    background-image: url(../../assets/img/flags/sg.svg)
+}
+
+.flag-icon-sh {
+    background-image: url(../../assets/img/flags/sh.svg)
+}
+
+.flag-icon-si {
+    background-image: url(../../assets/img/flags/si.svg)
+}
+
+.flag-icon-sj {
+    background-image: url(../../assets/img/flags/sj.svg)
+}
+
+.flag-icon-sk {
+    background-image: url(../../assets/img/flags/sk.svg)
+}
+
+.flag-icon-sl {
+    background-image: url(../../assets/img/flags/sl.svg)
+}
+
+.flag-icon-sm {
+    background-image: url(../../assets/img/flags/sm.svg)
+}
+
+.flag-icon-sn {
+    background-image: url(../../assets/img/flags/sn.svg)
+}
+
+.flag-icon-so {
+    background-image: url(../../assets/img/flags/so.svg)
+}
+
+.flag-icon-sr {
+    background-image: url(../../assets/img/flags/sr.svg)
+}
+
+.flag-icon-ss {
+    background-image: url(../../assets/img/flags/ss.svg)
+}
+
+.flag-icon-st {
+    background-image: url(../../assets/img/flags/st.svg)
+}
+
+.flag-icon-sv {
+    background-image: url(../../assets/img/flags/sv.svg)
+}
+
+.flag-icon-sx {
+    background-image: url(../../assets/img/flags/sx.svg)
+}
+
+.flag-icon-sy {
+    background-image: url(../../assets/img/flags/sy.svg)
+}
+
+.flag-icon-sz {
+    background-image: url(../../assets/img/flags/sz.svg)
+}
+
+.flag-icon-tc {
+    background-image: url(../../assets/img/flags/tc.svg)
+}
+
+.flag-icon-td {
+    background-image: url(../../assets/img/flags/td.svg)
+}
+
+.flag-icon-tf {
+    background-image: url(../../assets/img/flags/tf.svg)
+}
+
+.flag-icon-tg {
+    background-image: url(../../assets/img/flags/tg.svg)
+}
+
+.flag-icon-th {
+    background-image: url(../../assets/img/flags/th.svg)
+}
+
+.flag-icon-tj {
+    background-image: url(../../assets/img/flags/tj.svg)
+}
+
+.flag-icon-tk {
+    background-image: url(../../assets/img/flags/tk.svg)
+}
+
+.flag-icon-tl {
+    background-image: url(../../assets/img/flags/tl.svg)
+}
+
+.flag-icon-tm {
+    background-image: url(../../assets/img/flags/tm.svg)
+}
+
+.flag-icon-tn {
+    background-image: url(../../assets/img/flags/tn.svg)
+}
+
+.flag-icon-to {
+    background-image: url(../../assets/img/flags/to.svg)
+}
+
+.flag-icon-tr {
+    background-image: url(../../assets/img/flags/tr.svg)
+}
+
+.flag-icon-tt {
+    background-image: url(../../assets/img/flags/tt.svg)
+}
+
+.flag-icon-tv {
+    background-image: url(../../assets/img/flags/tv.svg)
+}
+
+.flag-icon-tw {
+    background-image: url(../../assets/img/flags/tw.svg)
+}
+
+.flag-icon-tz {
+    background-image: url(../../assets/img/flags/tz.svg)
+}
+
+.flag-icon-ua {
+    background-image: url(../../assets/img/flags/ua.svg)
+}
+
+.flag-icon-ug {
+    background-image: url(../../assets/img/flags/ug.svg)
+}
+
+.flag-icon-um {
+    background-image: url(../../assets/img/flags/um.svg)
+}
+
+.flag-icon-us {
+    background-image: url(../../assets/img/flags/us.svg)
+}
+
+.flag-icon-uy {
+    background-image: url(../../assets/img/flags/uy.svg)
+}
+
+.flag-icon-uz {
+    background-image: url(../../assets/img/flags/uz.svg)
+}
+
+.flag-icon-va {
+    background-image: url(../../assets/img/flags/va.svg)
+}
+
+.flag-icon-vc {
+    background-image: url(../../assets/img/flags/vc.svg)
+}
+
+.flag-icon-ve {
+    background-image: url(../../assets/img/flags/ve.svg)
+}
+
+.flag-icon-vg {
+    background-image: url(../../assets/img/flags/vg.svg)
+}
+
+.flag-icon-vi {
+    background-image: url(../../assets/img/flags/vi.svg)
+}
+
+.flag-icon-vn {
+    background-image: url(../../assets/img/flags/vn.svg)
+}
+
+.flag-icon-vu {
+    background-image: url(../../assets/img/flags/vu.svg)
+}
+
+.flag-icon-wf {
+    background-image: url(../../assets/img/flags/wf.svg)
+}
+
+.flag-icon-ws {
+    background-image: url(../../assets/img/flags/ws.svg)
+}
+
+.flag-icon-ye {
+    background-image: url(../../assets/img/flags/ye.svg)
+}
+
+.flag-icon-yt {
+    background-image: url(../../assets/img/flags/yt.svg)
+}
+
+.flag-icon-za {
+    background-image: url(../../assets/img/flags/za.svg)
+}
+
+.flag-icon-zm {
+    background-image: url(../../assets/img/flags/zm.svg)
+}
+
+.flag-icon-zw {
+    background-image: url(../../assets/img/flags/zw.svg)
+}
+
+.flag-icon-es-ca {
+    background-image: url(../../assets/img/flags/es-ca.svg)
+}
+
+.flag-icon-eu {
+    background-image: url(../../assets/img/flags/eu.svg)
+}
+
+.flag-icon-gb-eng {
+    background-image: url(../../assets/img/flags/gb-eng.svg)
+}
+
+.flag-icon-gb-nir {
+    background-image: url(../../assets/img/flags/gb-nir.svg)
+}
+
+.flag-icon-gb-sct {
+    background-image: url(../../assets/img/flags/gb-sct.svg)
+}
+
+.flag-icon-gb-wls {
+    background-image: url(../../assets/img/flags/gb-wls.svg)
+}
+
+.flag-icon-un {
+    background-image: url(../../assets/img/flags/un.svg)
+}
+
+.select2-container {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    vertical-align: middle
+}
+
+.select2-container .select2-selection--single {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 28px;
+    -moz-user-select: none;
+    user-select: none;
+    -webkit-user-select: none
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+    display: block;
+    overflow: hidden;
+    padding-left: 8px;
+    padding-right: 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.select2-container .select2-selection--single .select2-selection__clear {
+    position: relative
+}
+
+.select2-container[dir=rtl] .select2-selection--single .select2-selection__rendered {
+    padding-left: 20px;
+    padding-right: 8px
+}
+
+.select2-container .select2-selection--multiple {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    min-height: 32px;
+    -moz-user-select: none;
+    user-select: none;
+    -webkit-user-select: none
+}
+
+.select2-container .select2-selection--multiple .select2-selection__rendered {
+    display: inline-block;
+    overflow: hidden;
+    padding-left: 8px;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.select2-container .select2-search--inline {
+    float: left
+}
+
+.select2-container .select2-search--inline .select2-search__field {
+    border: none;
+    box-sizing: border-box;
+    font-size: 100%;
+    margin-top: 5px;
+    padding: 0
+}
+
+.select2-container .select2-search--inline .select2-search__field::-webkit-search-cancel-button {
+    -webkit-appearance: none
+}
+
+.select2-dropdown {
+    background: #fff;
+    box-sizing: border-box;
+    display: block;
+    left: -100000px;
+    position: absolute;
+    width: 100%;
+    z-index: 1051
+}
+
+.select2-results {
+    display: block
+}
+
+.select2-results__options {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.select2-results__option {
+    padding: 6px;
+    -moz-user-select: none;
+    user-select: none;
+    -webkit-user-select: none
+}
+
+.select2-results__option[aria-selected] {
+    cursor: pointer
+}
+
+.select2-container--open .select2-dropdown {
+    left: 0
+}
+
+.select2-container--open .select2-dropdown--above {
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+.select2-container--open .select2-dropdown--below {
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0
+}
+
+.select2-search--dropdown {
+    display: block;
+    padding: 4px
+}
+
+.select2-search--dropdown .select2-search__field {
+    box-sizing: border-box;
+    padding: 4px;
+    width: 100%
+}
+
+.select2-search--dropdown .select2-search__field::-webkit-search-cancel-button {
+    -webkit-appearance: none
+}
+
+.select2-search--dropdown.select2-search--hide {
+    display: none
+}
+
+.select2-close-mask {
+    background-color: #fff;
+    border: 0;
+    display: block;
+    filter: alpha(opacity=0);
+    height: auto;
+    left: 0;
+    margin: 0;
+    min-height: 100%;
+    min-width: 100%;
+    opacity: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: auto;
+    z-index: 99
+}
+
+.select2-hidden-accessible {
+    clip: rect(0 0 0 0) !important;
+    border: 0 !important;
+    -webkit-clip-path: inset(50%) !important;
+    clip-path: inset(50%) !important;
+    height: 1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    white-space: nowrap !important;
+    width: 1px !important
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444
+}
+
+.select2-container--default .select2-selection--single .select2-selection__clear {
+    cursor: pointer;
+    float: right;
+    font-weight: 700
+}
+
+.select2-container--default .select2-selection--single .select2-selection__placeholder {
+    color: #999
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    border-bottom: 1px solid #fff;
+    border-left: 1px solid #fff;
+    height: 7px;
+    position: absolute;
+    right: 25px;
+    top: 23px;
+    transform: rotate(-45deg);
+    width: 7px
+}
+
+.select2-container--default .select2-selection--single[aria-expanded=true] .select2-selection__arrow {
+    top: 27px;
+    transform: rotate(-225deg)
+}
+
+.select2-container--default[dir=rtl] .select2-selection--single .select2-selection__clear {
+    float: left
+}
+
+.select2-container--default[dir=rtl] .select2-selection--single .select2-selection__arrow {
+    left: 1px;
+    right: auto
+}
+
+.select2-container--default.select2-container--disabled .select2-selection--single {
+    background-color: #eee;
+    cursor: default
+}
+
+.select2-container--default.select2-container--disabled .select2-selection--single .select2-selection__clear {
+    display: none
+}
+
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+    border-color: transparent transparent #888;
+    border-width: 0 4px 5px
+}
+
+.select2-container--default .select2-selection--multiple {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: text
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    box-sizing: border-box;
+    list-style: none;
+    margin: 0;
+    padding: 0 5px;
+    width: 100%
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li {
+    list-style: none
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__placeholder {
+    color: #999;
+    float: left;
+    margin-top: 5px
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__clear {
+    cursor: pointer;
+    float: right;
+    font-weight: 700;
+    margin-right: 10px;
+    margin-top: 5px
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #e4e4e4;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: default;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding: 0 5px
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #999;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    margin-right: 2px
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover {
+    color: #333
+}
+
+.select2-container--default[dir=rtl] .select2-selection--multiple .select2-search--inline,
+.select2-container--default[dir=rtl] .select2-selection--multiple .select2-selection__choice,
+.select2-container--default[dir=rtl] .select2-selection--multiple .select2-selection__placeholder {
+    float: right
+}
+
+.select2-container--default[dir=rtl] .select2-selection--multiple .select2-selection__choice {
+    margin-left: 5px;
+    margin-right: auto
+}
+
+.select2-container--default[dir=rtl] .select2-selection--multiple .select2-selection__choice__remove {
+    margin-left: 2px;
+    margin-right: auto
+}
+
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border: 1px solid #000;
+    outline: 0
+}
+
+.select2-container--default.select2-container--disabled .select2-selection--multiple {
+    background-color: #eee;
+    cursor: default
+}
+
+.select2-container--default.select2-container--disabled .select2-selection__choice__remove {
+    display: none
+}
+
+.select2-container--default.select2-container--open.select2-container--above .select2-selection--multiple,
+.select2-container--default.select2-container--open.select2-container--above .select2-selection--single {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0
+}
+
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--multiple,
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--single {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+.select2-container--default .select2-search--inline .select2-search__field {
+    -webkit-appearance: textfield;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    outline: 0
+}
+
+.select2-container--default .select2-search--dropdown {
+    padding-left: 23px
+}
+
+.select2-container--default .select2-results>.select2-results__options {
+    font-size: 15px;
+    max-height: 200px;
+    max-width: 100%;
+    overflow-y: auto
+}
+
+.select2-container--default .select2-results__option[role=group] {
+    padding: 0
+}
+
+.select2-container--default .select2-results__option[aria-disabled=true] {
+    color: #999
+}
+
+.select2-container--default .select2-results__option[aria-selected=true] {
+    background-color: #ddd
+}
+
+.select2-container--default .select2-results__option .select2-results__option {
+    padding-left: 1em
+}
+
+.select2-container--default .select2-results__option .select2-results__option .select2-results__group {
+    padding-left: 0
+}
+
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option {
+    margin-left: -1em;
+    padding-left: 2em
+}
+
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option {
+    margin-left: -2em;
+    padding-left: 3em
+}
+
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option {
+    margin-left: -3em;
+    padding-left: 4em
+}
+
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option {
+    margin-left: -4em;
+    padding-left: 5em
+}
+
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option {
+    margin-left: -5em;
+    padding-left: 6em
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #5897fb;
+    color: #fff
+}
+
+.select2-container--default .select2-results__group {
+    cursor: default;
+    display: block;
+    padding: 6px
+}
+
+.form-ubersuggest {
+    background: var(--c-red);
+    border-radius: 2px;
+    max-width: 1010px;
+    padding: 10px;
+    text-align: left;
+    width: 100%
+}
+
+@media (min-width:768px) {
+    .form-ubersuggest {
+        display: flex;
+        justify-content: space-between
+    }
+}
+
+.page-header .form-ubersuggest {
+    margin-top: 50px
+}
+
+.form-ubersuggest .fieldset {
+    margin-bottom: 1px
+}
+
+@media (min-width:768px) {
+    .form-ubersuggest .fieldset {
+        margin-bottom: 0
+    }
+}
+
+.form-ubersuggest .fieldset:last-child {
+    margin-bottom: 0
+}
+
+.form-ubersuggest .field,
+.form-ubersuggest .fieldset {
+    display: block;
+    width: 100%
+}
+
+@media (min-width:768px) {
+
+    .form-ubersuggest .fieldset-select,
+    .form-ubersuggest .fieldset-submit {
+        flex-grow: 0;
+        flex-shrink: 0
+    }
+
+    .form-ubersuggest .fieldset-select {
+        margin: 0 10px 0 1px;
+        width: 162px
+    }
+}
+
+@media (min-width:1024px) {
+    .form-ubersuggest .fieldset-select {
+        margin-right: 20px;
+        width: 320px
+    }
+}
+
+.form-ubersuggest .field-select {
+    background-color: hsla(0, 0%, 100%, .2);
+    height: inherit;
+    width: inherit
+}
+
+@media (min-width:768px) {
+    .form-ubersuggest .fieldset-submit {
+        width: 162px
+    }
+}
+
+.form-ubersuggest .fieldset-submit .field-submit-icon {
+    display: none;
+    padding: 4px 3px 0
+}
+
+.form-ubersuggest .fieldset-submit .field-submit-icon .img {
+    filter: invert(58%) sepia(73%) saturate(4297%) hue-rotate(341deg) brightness(99%) contrast(91%);
+    max-width: none
+}
+
+.form-ubersuggest .field-submit {
+    height: 60px;
+    padding-bottom: 0;
+    padding-top: 2px;
+    width: 100%
+}
+
+.form-ubersuggest .field-submit:hover {
+    color: var(--c-black)
+}
+
+.select2 {
+    width: 100% !important
+}
+
+.select2-container {
+    height: 60px
+}
+
+.select2-container .select2-dropdown--below {
+    box-shadow: 0 29px 60px 0 rgba(54, 57, 73, .09)
+}
+
+.select2-container .flag-icon {
+    background-position: left 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 16px;
+    line-height: 1em;
+    margin-right: 10px
+}
+
+.select2-container .flag-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+@media (min-width:768px) {
+    .select2-container .flag-text-default {
+        display: none
+    }
+}
+
+@media (min-width:1024px) {
+    .select2-container .flag-text-default {
+        display: inline-block
+    }
+}
+
+.select2-container .flag-text-abbr {
+    display: none;
+    text-transform: capitalize
+}
+
+@media (min-width:768px) {
+    .select2-container .flag-text-abbr {
+        display: inline-block
+    }
+}
+
+@media (min-width:1024px) {
+    .select2-container .flag-text-abbr {
+        display: none
+    }
+}
+
+@media (min-width:768px) {
+    .select2-container .select2-dropdown {
+        width: 320px !important
+    }
+}
+
+.select2-container .select2-search--dropdown {
+    border-bottom: 1px solid #f2f2f2
+}
+
+.select2-container .selection {
+    height: inherit
+}
+
+.select2-container .select2-selection {
+    background-color: hsla(0, 0%, 100%, .2);
+    border-radius: 2px;
+    font-size: 15px;
+    height: inherit;
+    line-height: 1.66667em;
+    width: 100%
+}
+
+.select2-container .select2-selection .select2-selection__rendered {
+    align-items: center;
+    color: #fff;
+    display: flex;
+    height: inherit;
+    padding: 0 60px 0 30px;
+    width: 100%
+}
+
+@media (min-width:768px) {
+    .select2-container .select2-selection .select2-selection__rendered {
+        padding-right: 35px
+    }
+}
+
+@media (min-width:1024px) {
+    .select2-container .select2-selection .select2-selection__rendered {
+        padding-right: 60px
+    }
+}
+
+.select2-container .select2-selection[aria-expanded=true] {
+    background: #f2f2f2
+}
+
+.select2-container .select2-selection[aria-expanded=true] .flag-text {
+    color: var(--c-black)
+}
+
+.select2-container .select2-selection[aria-expanded=true] .select2-selection__arrow {
+    border-color: var(--c-black);
+    margin-top: -1px;
+    top: 50%
+}
+
+.select2-container .select2-selection .select2-selection__arrow {
+    margin-top: -5px;
+    top: 50%
+}
+
+.select2-container .select2-results {
+    background: #fff;
+    font-size: 15px
+}
+
+.select2-container .select2-results .select2-results__option {
+    align-items: center;
+    display: flex;
+    padding: 10px 5px 10px 30px
+}
+
+.select2-container .select2-results__option--highlighted[aria-selected] {
+    background-color: #f2f2f2;
+    color: var(--c-black)
+}
+
+.select2-container .select2-search__field {
+    font-weight: 300;
+    padding: 5px 0
+}
+
+.select2-container .select2-search__field::-moz-placeholder {
+    color: var(--c-gray-2);
+    font-weight: 300;
+    opacity: 1
+}
+
+.select2-container .select2-search__field::placeholder {
+    color: var(--c-gray-2);
+    font-weight: 300;
+    opacity: 1
+}
+
+.select2-container .select2-results__message {
+    display: none !important
+}
+
+.select2-container--default .select2-search--dropdown {
+    padding-left: 30px
+}
+
+#topbar.ubersuggest {
+    border-bottom: 1px solid hsl(var(--c-red-h), var(--c-red-s), calc(var(--c-red-l) - 5%));
+    padding: 0
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest {
+        border-bottom: 0;
+        padding: 10px 0
+    }
+}
+
+#topbar.ubersuggest .inner {
+    align-items: normal;
+    display: block;
+    justify-content: normal;
+    padding: 0
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .inner {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        padding: 0 10px
+    }
+}
+
+#topbar.ubersuggest .title {
+    display: none
+}
+
+@media (min-width:768px) {
+    #topbar.ubersuggest .title {
+        display: block;
+        margin-bottom: 0;
+        margin-right: 30px;
+        white-space: nowrap
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest {
+    border-radius: 0;
+    display: flex;
+    justify-content: space-between
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .form-ubersuggest {
+        border-radius: 2px
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-select,
+#topbar.ubersuggest .form-ubersuggest .select2-container,
+#topbar.ubersuggest .form-ubersuggest button,
+#topbar.ubersuggest .form-ubersuggest input {
+    height: 48px
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-keyword {
+    min-width: 128px
+}
+
+#topbar.ubersuggest .form-ubersuggest .field-keyword {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .form-ubersuggest .field-keyword {
+        padding-left: 30px;
+        padding-right: 30px
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-select {
+    margin: 0 1px
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-submit {
+    width: auto
+}
+
+@media (min-width:768px) {
+    #topbar.ubersuggest .form-ubersuggest .fieldset-submit {
+        width: 162px
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-submit .field-submit-text {
+    display: none
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .form-ubersuggest .fieldset-submit .field-submit-text {
+        display: inline-block
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-submit .field-submit-icon {
+    display: inline-block
+}
+
+#topbar.ubersuggest .form-ubersuggest .fieldset-submit .field-submit-icon:before {
+    margin: 0
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .form-ubersuggest .fieldset-submit .field-submit-icon {
+        display: none
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .select2-container .flag-text-default {
+    display: none
+}
+
+@media (min-width:1024px) {
+    #topbar.ubersuggest .form-ubersuggest .select2-container .flag-text-default {
+        display: inline-block
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .select2-container .flag-text-abbr {
+    display: inline-block
+}
+
+@media (min-width:1024px) {
+    #topbar.ubersuggest .form-ubersuggest .select2-container .flag-text-abbr {
+        display: none
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .select2-container .select2-selection .select2-selection__rendered {
+    padding-left: 15px;
+    padding-right: 30px
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .form-ubersuggest .select2-container .select2-selection .select2-selection__rendered {
+        padding-left: 30px;
+        padding-right: 60px
+    }
+}
+
+#topbar.ubersuggest .form-ubersuggest .select2-selection__arrow {
+    right: 15px
+}
+
+@media (min-width:480px) {
+    #topbar.ubersuggest .form-ubersuggest .select2-selection__arrow {
+        right: 25px
+    }
+}
+
+.select2-container--open .select2-selection .select2-selection__rendered {
+    color: #444
+}
+
+.select2-container--default .select2-dropdown-topbar .select2-results .select2-results__option {
+    padding-left: 15px
+}
+
+@media (min-width:480px) {
+    .select2-container--default .select2-dropdown-topbar .select2-results .select2-results__option {
+        padding-left: 30px
+    }
+}
+
+.select2-container--default .select2-dropdown-topbar .select2-search--dropdown {
+    padding-left: 15px
+}
+
+@media (min-width:480px) {
+    .select2-container--default .select2-dropdown-topbar .select2-search--dropdown {
+        padding-left: 30px
+    }
+}
+
+.select2-container--default .select2-dropdown-topbar .select2-results .flag-text-default {
+    display: none
+}
+
+@media (min-width:480px) {
+    .select2-container--default .select2-dropdown-topbar .select2-results .flag-text-default {
+        display: inline-block
+    }
+}
+
+.select2-container--default .select2-dropdown-topbar .select2-results .flag-text-abbr {
+    display: inline-block
+}
+
+@media (min-width:480px) {
+    .select2-container--default .select2-dropdown-topbar .select2-results .flag-text-abbr {
+        display: none
+    }
+}
+
+.select2-container--default .select2-dropdown-mode .select2-results .select2-results__options {
+    max-height: 240px
+}
+
+.select2-container--default .select2-dropdown-mode .mode-description,
+.select2-container--default .select2-dropdown-mode .mode-text,
+.select2-container--default .select2-dropdown-mode .select2-results .select2-results__option {
+    display: block
+}
